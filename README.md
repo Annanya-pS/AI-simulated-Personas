@@ -26,8 +26,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PariChawla/Your-Persona.git
-   cd Your-Persona
+   git clone https://github.com/Annanya-pS/AI-simulated-Personas.git
+   cd AI-simulated-Personas
    ```
 
 2. Install dependencies:
@@ -82,12 +82,6 @@ Your-Persona/
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## 👨‍💻 Author
-
-**Dhirender Choudhary**
-
-- GitHub: [@Dhirenderchoudhary](https://github.com/parichawla)
-- LinkedIn: [dhirender-choudhary0001](https://linkedin.com/in/pari-chawla4)
 
 ## 📄 License
 
